@@ -139,3 +139,7 @@ ui_export/
 
 # Jupyter
 jupyter_kernel.lock
+
+# dot files
+*.dot
+*.pdf
